@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tides",
+  "name": "Tides",
+  "description": "An improved ocean for an improved ocean in update aquatic",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheRPGAdventurer"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
